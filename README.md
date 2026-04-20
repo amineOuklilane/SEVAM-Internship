@@ -105,4 +105,4 @@ The final automation solution operates as a closed-loop system, precisely regula
 ---
 
 ### 📄 Documentation
-[👉 Access the Complete Technical PFE Report (PDF)](./Rapport de SFE.pdf)
+[👉 Access the Complete Technical PFE Report (PDF)](.Reports/Rapport de SFE.pdf)
