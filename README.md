@@ -105,4 +105,4 @@ The final automation solution operates as a closed-loop system, precisely regula
 ---
 
 ### 📄 Documentation
-[👉 Access the Complete Technical PFE Report (PDF)](./Rapport_final_PFE_SEVAM.pdf)
+[👉 Access the Complete Technical PFE Report (PDF)](./Rapport_final_PFE_SEVAM.docx)
