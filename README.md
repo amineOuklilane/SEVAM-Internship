@@ -105,4 +105,13 @@ The final automation solution operates as a closed-loop system, precisely regula
 ---
 
 ### 📄 Documentation
-[👉 Access the Complete Technical PFE Report (PDF)](.Reports/Rapport de SFE.pdf)
+[👉 Access the Complete Technical PFE Report (PDF)](.Reports/Rapport de SFE.pdf)---
+
+## 📚 Project Documentation & Technical Specifications
+
+For a comprehensive deep-dive into the theoretical studies, electrical calculations, and detailed PLC programming blocks, please refer to the official project documentation archived in this repository.
+
+### 📄 Full Technical Report
+[👉 Access the Complete Technical PFE Report (PDF)](./Report/Rapport de SFE.pdf)
+
+*Note: The report includes the full bill of materials (BOM), functional safety analysis, and detailed WinCC tag configurations.*
