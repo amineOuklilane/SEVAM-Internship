@@ -14,7 +14,7 @@ The automation of the hopper is a critical node within the larger glass fabricat
 
 ![Glass Fabrication Steps](Assets/fab-steps.jpg)
 
-  *Figure 1: Comprehensive flowchart of the industrial glass manufacturing stages.*
+   *Figure 1: Comprehensive flowchart of the industrial glass manufacturing stages.*
 
 ### 1.1 Melting & Molding Operations
 The raw material is fed into the furnace, where it undergoes fusion at extreme temperatures. Once molten, the glass is moved to the molding phase to take its final form.
@@ -35,14 +35,14 @@ The logic backbone is a **Siemens S7-300 PLC**, chosen for its modularity and ro
 
 ![Siemens S7-300 PLC](Assets/s7-300.jpg)
 
- *Figure 4: Central Processing Unit - Siemens S7-300 PLC.*
+  *Figure 4: Central Processing Unit - Siemens S7-300 PLC.*
 
 ### 2.2 Specialized Motor Interfacing
 To bridge the gap between low-voltage PLC logic and the power demands of the vibration system, a specialized electronic interface board was utilized to regulate high-torque motor activation.
 
 ![Control Board](Assets/Carte-pour-vib.jpg)
 
- *Figure 5: Custom interface board for vibrating motor drive synchronization.*
+  *Figure 5: Custom interface board for vibrating motor drive synchronization.*
 
 ---
 
@@ -55,13 +55,15 @@ The control sequences were developed using **Ladder Logic**, structured into mod
 ![Ladder Logic Network 1](Assets/LD1.jpg)
 ![Ladder Logic Network 2](Assets/LD2.jpg)
 ![Ladder Logic Network 3](Assets/LD3.jpg)
-*Figures 6, 7, & 8: Technical implementation of the automation sequences in Ladder Diagram.*
+
+  *Figures 6, 7, & 8: Technical implementation of the automation sequences in Ladder Diagram.*
 
 ### 3.2 HMI & Industrial Supervision (WinCC)
 A Human-Machine Interface (HMI) was developed via **SIMATIC WinCC**, allowing operators to monitor the system status, view real-time alarms, and control the process flow through a digitized dashboard.
 
 ![WinCC Interface](Assets/WinCC.jpg)
-*Figure 9: WinCC Supervision dashboard for real-time process monitoring.*
+
+  *Figure 9: WinCC Supervision dashboard for real-time process monitoring.*
 
 ---
 
@@ -74,8 +76,8 @@ The system utilizes a dual-circuit design:
 * **Control Circuit:** 24V DC logic for PLC I/O, safety loops, and indicator lamps.
 
 <p align="center">
-  <img src="Assets/Shema_puissance.png" width="45%" />
-  <img src="Assets/Shema_Commade.png" width="45%" />
+  <img src="Assets/Shema puissance.png" width="45%" />
+  <img src="Assets/Shema Commade.png" width="45%" />
 </p>
 <p align="center"><i>Figure 10 & 11: High-voltage Power Circuit (left) and 24VDC Control Schematic (right).</i></p>
 
