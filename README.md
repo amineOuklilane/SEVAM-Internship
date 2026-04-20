@@ -13,13 +13,14 @@ This project represents a comprehensive industrial study and implementation focu
 The automation of the hopper is a critical node within the larger glass fabrication process. This cycle begins with the melting of raw materials (silica, soda ash, and lime) and follows a rigorous path to achieve the final product quality.
 
 ![Glass Fabrication Steps](Assets/fab-steps.jpg)
-*Figure 1: Comprehensive flowchart of the industrial glass manufacturing stages.*
+
+  *Figure 1: Comprehensive flowchart of the industrial glass manufacturing stages.*
 
 ### 1.1 Melting & Molding Operations
 The raw material is fed into the furnace, where it undergoes fusion at extreme temperatures. Once molten, the glass is moved to the molding phase to take its final form.
 
 <p align="center">
-  <img src="Assets/moulage.jpg" width="45%" />
+  <img src="Assets/moulage.png" width="45%" />
   <img src="Assets/Four from inside.jpg" width="45%" />
 </p>
 <p align="center"><i>Figure 2 & 3: Precision molding process (left) and internal furnace thermal environment (right).</i></p>
