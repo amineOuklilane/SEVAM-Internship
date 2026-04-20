@@ -34,13 +34,15 @@ Designing for a high-vibration and high-temperature environment required a strat
 The logic backbone is a **Siemens S7-300 PLC**, chosen for its modularity and robust performance in heavy industrial applications. It manages the real-time processing of sensor signals to coordinate the vibrating motors.
 
 ![Siemens S7-300 PLC](Assets/s7-300.jpg)
-*Figure 4: Central Processing Unit - Siemens S7-300 PLC.*
+
+ *Figure 4: Central Processing Unit - Siemens S7-300 PLC.*
 
 ### 2.2 Specialized Motor Interfacing
 To bridge the gap between low-voltage PLC logic and the power demands of the vibration system, a specialized electronic interface board was utilized to regulate high-torque motor activation.
 
 ![Control Board](Assets/Carte-pour-vib.jpg)
-*Figure 5: Custom interface board for vibrating motor drive synchronization.*
+
+ *Figure 5: Custom interface board for vibrating motor drive synchronization.*
 
 ---
 
